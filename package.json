@@ -1,6 +1,6 @@
 {
   "name": "hubot-stockholm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Make hubot do a Stockholm dialect",
   "main": "index.coffee",
   "scripts": {

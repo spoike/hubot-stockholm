@@ -7,14 +7,14 @@ Make hubot talk with a curated list of phrases in Stockholm dialect
 In hubot project repo, run:
 
 ```sh
-npm install hubot-redis-brain --save
+npm install hubot-stockholm --save
 ```
 
-Then add `hubot-redis-brain` to your `external-scripts.json`:
+Then add `hubot-stockholm` to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-redis-brain"
+  "hubot-stockholm"
 ]
 ```
 
