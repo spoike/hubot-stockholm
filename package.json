@@ -1,6 +1,6 @@
 {
   "name": "hubot-stockholm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Make hubot do a Stockholm dialect",
   "main": "index.coffee",
   "scripts": {
@@ -11,5 +11,9 @@
   "keywords": [
     "sweden",
     "hubot"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spoike/hubot-stockholm.git"
+  }
 }
